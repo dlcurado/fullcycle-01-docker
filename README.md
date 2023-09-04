@@ -7,6 +7,9 @@ Aqui estão os fontes para os exercícios do primeiro módulo do curso Full Cycl
 Em cada sessão deixarei um pouco da experiência que tive e assim podendo coletar feedbacks de como poderia fazer diferente
 
 ### 1º Exercício
+
+*Imagem:* dlcurado/fullcycle
+
 Para subir um container com Golang e criar o projeto, foi interesante.
 Primeiramente pensei em subir na minha máquina local, criar, compilar e fazer deploy em uma imagem enxuta, só para execução.
 
@@ -25,8 +28,3 @@ Depois crei uma outra imagem partindo do scratch, copiando o executável e rodan
 Esta é a versão atual da solução.
 
 Obrigado
-
-
-
-### 2º Exercício
-In Progress...
